@@ -1,0 +1,26 @@
+body {
+    width: 800px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    background: rgb(30, 25, 44);
+    color: azure;
+    font: normal 15pt arial;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    padding-top: 5px;
+}
+
+section {
+    background: rgb(145, 173, 177);
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+    width: 500px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    margin: 15px 0 15px 150px;
+}
