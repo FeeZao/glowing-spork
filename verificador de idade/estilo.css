@@ -1,0 +1,36 @@
+body {
+    width: 800px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    background: rgb(109, 40, 72);
+    color: azure;
+    font: normal 15pt arial;
+    margin-top: 20px;
+}
+
+h1{
+    font:normal 30px Arial;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    padding-top: 5px;
+}
+
+section {
+    background: rgb(33, 222, 247);
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+    width: 500px;
+    height: 200px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    margin: 15px 0 15px 150px;
+}
+
+footer{
+    font:15px italic;
+}
